@@ -1,0 +1,9 @@
+{
+	"apps": [
+		{
+			"name": "yada",
+			"script": "npm",
+			"args": "start"
+		}
+	]
+}
